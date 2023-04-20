@@ -1,0 +1,63 @@
+{
+    "course": "CS 101",
+    "instructor": {
+        "name": "John Doe",
+        "id": 123456,
+        "office": "1234",
+        "phone": "123-456-7890"
+    },
+
+    "students": [
+        {
+            "name": "John Doe",
+            "id": 123456,
+            "grades": [90, 80, 70, 60]
+        },
+        {
+            "name": "Jane Doe",
+            "id": 123457,
+            "grades": [100, 90, 80, 70]
+        }
+    ],
+    "curriculum": {
+        "section":[
+            {
+                "id":1,
+                "name": "Introduction to Programming",
+                "lessons":
+                [
+                    {
+                        "id":1,
+                        "name": "Introduction to Java",
+                        "description": "This lesson introduces the Java programming language."
+                    },
+                    {
+                        "id":2,
+                        "name": "Introduction to Eclipse",
+                        "description": "This lesson introduces the Eclipse Integrated Development Environment."
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "name": "Introduction to Programming",
+                "lessons":
+                [
+                    {
+                        "id":1,
+                        "name": "Introduction to Java",
+                        "description": "This lesson introduces the Java programming language."
+                    },
+                    {
+                        "id":2,
+                        "name": "Introduction to Eclipse",
+                        "description": "This lesson introduces the Eclipse Integrated Development Environment."
+                    }
+                ]
+            }
+        ]
+            
+
+        }
+
+    }

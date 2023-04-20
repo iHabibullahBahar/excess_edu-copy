@@ -1,0 +1,336 @@
+{
+  "courses": [
+    {
+      "course_id": 1,
+      "category_id": 2,
+      "name": "Complete Mathematics Masterclass: College & University Level",
+      "short_description": "All the Applied Mathematics Needed in Science, Programming, Engineering, IT & Business - Theory, Examples & Exercises",
+      "price": 999.15,
+      "price_unit": "BDT",
+      "cover_type": "video",
+      "cover_image":  "https://lh3.googleusercontent.com/drive-viewer/AAOQEOStBR69AYEEvePqD1wmaazqO8EYQun_C9XtKLkuTSE7MNF2Bjh_nWhNjjE_dEkO_rogKnDkKxgnPoINZKwHT16qw1KC=w1920-h924",
+      "cover_video": "https://www.youtube.com/watch?v=OiXEpjO7rOs",
+      "last_updated": "2021-08-01",
+      "rating": 4.5,
+      "total_rating": 100,
+      "total_enrolled": 1000,
+      "course_includes": {
+        "total_section": 8,
+        "total_video": 18,
+        "total_article": 2,
+        "total_quiz": 2,
+        "course_duration": 82000
+      },
+      "instructor": {
+        "name": "Tanvir Rahman",
+        "designation": "Senior Lecturer",
+        "institution": "University of Dhaka",
+        "image": "https://avatars.githubusercontent.com/u/69121827?v=4"
+      },
+      "description": "This course is for everyone who wants to learn applied mathematics on a college and university level! It is a complete course containing all relevant topics like Calculus, Algebra, Statistics & Stochastics. Advanced mathematics is relevant in many fields: Programming & IT, Engineering, Science (Physics, Chemistry, Biology, Pharmacy, ...), Business & Economics. This course will teach you all you have to know in 24 hours. You are kindly invited to join this carefully prepared course in which we derive the following concepts from scratch. I will present examples and give you exercises (incl. solutions) for all topics. College-level mathematics (10 hours)Limits of functionsDerivatives & Integrals in 1 dimensionVectors in cartesian coordinatesStochastic & Probability distributionsUniversity-level mathematics (14 hours) Sequences & SeriesTaylor expansions Complex numbersDerivatives & Integrals in multiple dimensionsAlternative coordinate systemsDifferential equationsMatrix algebraFourier transforms & Delta distributionWhy me? My name is Börge Göbel and I am a postdoc working as a scientist in theoretical physics. I have refined my advisor skills as a tutor of Bachelor, Master and PhD students in theoretical physics and have other successful courses here on Udemy. I always had a passion for the mathematical side of science. Still today, I use the concepts of this course on a daily basis when I am programing on the PC or when I have to solve mathematical problems analytically on a sheet of paper. I hope you are excited and I kindly welcome you to our course! ",
+      "what_you_learn": [
+        "Deepen your understanding of school mathematics & go beyond: All mathematical concepts that you need & learn at university",
+        "Learn how to solve problems in mathematics & apply your knowledge in real life",
+        "University level mathematics: Learn the mathematics that you need to study at university",
+        "University - level: Complex numbers, matrices, vectors, differential equations, probability, statistics, calculus, linear algebra, etc."
+      ],
+      "ratings":[
+        {
+          "rating_vlaue": 5.0,
+          "date_and_time":"2021-08-01 12:00:00",
+          "user_name":"Tanvir Rahman",
+          "comment":"This course is for everyone who wants to learn applied mathematics on a college and university level!"
+        },
+        {
+          "rating_value": 4.0,
+          "date_and_time":"2021-08-01 12:00:00",
+          "user_name":"Sunjati Rahman",
+          "comment":"This is for mathematics on a college and university level!"
+        },
+        {
+          "rating_value": 4,
+          "date_and_time": "2022-02-14 09:00:00",
+          "user_name": "Alice Johnson",
+          "comment": "I really enjoyed this course. The instructor was engaging and the material was presented in a clear and organized manner."
+        },
+        {
+          "rating_value": 3,
+          "date_and_time": "2022-02-15 13:30:00",
+          "user_name": "Bob Smith",
+          "comment": "This course was helpful, but I found some parts to be a bit confusing."
+        },
+        {
+          "rating_value": 5,
+          "date_and_time": "2022-02-16 11:00:00",
+          "user_name": "Charlie Brown",
+          "comment": "This course was excellent. The instructor was knowledgeable and engaging, and the material was presented in a clear and concise manner."
+        },
+        {
+          "rating_value": 2,
+          "date_and_time": "2022-02-17 10:15:00",
+          "user_name": "Diana Garcia",
+          "comment": "I struggled to understand some of the material in this course, and I found the instructor to be unengaging."
+        },
+        {
+          "rating_value": 4,
+          "date_and_time": "2022-02-18 14:00:00",
+          "user_name": "Erica Chen",
+          "comment": "I learned a lot from this course and found it to be very informative. However, I think it could have been presented in a more engaging manner."
+        },
+        {
+          "rating_value": 5,
+          "date_and_time": "2022-02-19 12:30:00",
+          "user_name": "Frank Kim",
+          "comment": "This course was excellent. The instructor was very knowledgeable and engaging, and the material was presented in a way that was easy to understand."
+        },
+        {
+          "rating_value": 3,
+          "date_and_time": "2022-02-20 09:45:00",
+          "user_name": "Grace Lee",
+          "comment": "This course was helpful overall, but I found some parts to be a bit challenging."
+        },
+        {
+          "rating_value": 4,
+          "date_and_time": "2022-02-21 11:30:00",
+          "user_name": "Henry Smith",
+          "comment": "I found this course to be very informative and engaging. The instructor did a great job presenting the material."
+        },
+        {
+          "rating_value": 5,
+          "date_and_time": "2022-02-22 13:00:00",
+          "user_name": "Isabella Rodriguez",
+          "comment": "This course was excellent. The instructor was very knowledgeable and engaging, and the material was presented in a clear and organized manner."
+        },
+        {
+          "rating_value": 2,
+          "date_and_time": "2022-02-23 10:45:00",
+          "user_name": "Jack Wilson",
+          "comment": "I found this course to be confusing and difficult to follow. The instructor did not do a good job presenting the material."
+        }
+        
+      ],
+      "curriculum": {
+        "sections": [
+          {
+            "section_id": 1,
+            "section_index": 1,
+            "section_name": "Introduction",
+            "lessons": [
+              {
+                "lesson_id": 1,
+                "lesson_index": 1,
+                "lesson_name": "Welcome to the course Dude ,Are you ready",
+                "lesson_type": "video",
+                "is_previewable": true,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=OiXEpjO7rOs"
+              },
+              {
+                "lesson_id": 2,
+                "lesson_index": 2,
+                "lesson_name": "Course overview",
+                "lesson_type": "article",
+                "is_previewable": true,
+                "content_size": 15,
+                "content_url": "https://drive.google.com/file/d/1uzxSFf9ykJud_zyadK4qIxVCPEemprbV/view?usp=share_link"
+              },
+              {
+                "lesson_id": 3,
+                "lesson_index": 3,
+                "lesson_name": "Fundamentals of mathematics",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 711,
+                "content_url": "https://www.youtube.com/watch?v=kis7l0y1JUg"
+              },
+              {
+                "lesson_id": 4,
+                "lesson_index": 4,
+                "lesson_name": "Mathematical notation",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2127,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              }
+            ]
+          },
+          {
+            "section_id": 2,
+            "section_index": 2,
+            "section_name": "Calculus",
+            "lessons": [
+              {
+                "lesson_id": 5,
+                "lesson_index": 1,
+                "lesson_name": "Limits",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2127,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              },
+              {
+                "lesson_id": 6,
+                "lesson_index": 2,
+                "lesson_name": "Derivatives",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2127,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              },
+              {
+                "lesson_id": 7,
+                "lesson_index": 3,
+                "lesson_name": "Integrals",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              }
+            ]
+          },
+          {
+            "section_id": 3,
+            "section_index": 3,
+            "section_name": "Algebra",
+            "lessons": [
+              {
+                "lesson_id": 8,
+                "lesson_index": 1,
+                "lesson_name": "Vectors",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              },
+              {
+                "lesson_id": 9,
+                "lesson_index": 2,
+                "lesson_name": "Matrices",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              },
+              {
+                "lesson_id": 10,
+                "lesson_index": 3,
+                "lesson_name": "Complex numbers",
+                "lesson_type": "video",
+                "is_previewable": true,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              }
+            ]
+          },
+          {
+            "section_id": 4,
+            "section_index": 4,
+            "section_name": "Stochastics",
+            "lessons": [
+              {
+                "lesson_id": 11,
+                "lesson_index": 1,
+                "lesson_name": "Probability distributions",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              },
+              {
+                "lesson_id": 12,
+                "lesson_index": 2,
+                "lesson_name": "Stochastic processes",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              }
+            ]
+          },
+          {
+            "section_id": 5,
+            "section_index": 5,
+            "section_name": "Statistics",
+            "lessons": [
+              {
+                "lesson_id": 13,
+                "lesson_index": 1,
+                "lesson_name": "Statistical distributions",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              },
+              {
+                "lesson_id": 14,
+                "lesson_index": 2,
+                "lesson_name": "Statistical tests",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              }
+            ]
+          },
+          {
+            "section_id": 6,
+            "section_index": 6,
+            "section_name": "Differential equations",
+            "lessons": [
+              {
+                "lesson_id": 15,
+                "lesson_index": 1,
+                "lesson_name": "Differential equations",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              }
+            ]
+          },
+          {
+            "section_id": 7,
+            "section_index": 7,
+            "section_name": "Linear algebra",
+            "lessons": [
+              {
+                "lesson_id": 16,
+                "lesson_index": 1,
+                "lesson_name": "Linear algebra",
+                "lesson_type": "video",
+                "is_previewable": true,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              }
+            ]
+          },
+          {
+            "section_id": 8,
+            "section_index": 8,
+            "section_name": "Numerical methods",
+            "lessons": [
+              {
+                "lesson_id": 17,
+                "lesson_index": 1,
+                "lesson_name": "Numerical methods",
+                "lesson_type": "video",
+                "is_previewable": false,
+                "content_size": 2750,
+                "content_url": "https://www.youtube.com/watch?v=jlHkDBEumP0"
+              },
+              {
+                "lesson_id": 18,
+                "lesson_index": 2,
+                "lesson_name": "Numerical methods",
+                "lesson_type": "article",
+                "is_previewable": true,
+                "content_size": 2750,
+                "content_url": "https://drive.google.com/file/d/1uzxSFf9ykJud_zyadK4qIxVCPEemprbV/view?usp=share_link"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

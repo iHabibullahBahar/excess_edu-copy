@@ -1,0 +1,100 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Admission English (Private Batch)",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 2,
+            "name": "ভার্সিটি A Unit + গুচ্ছ এডমিশন কোর্স - ২০২২",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 3,
+            "name": "English for Govt. Jobs",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 4,
+            "name": "ব্যাংক জবস প্রশ্ন সমাধান + মডেল টেস্ট কোর্স",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 5,
+            "name": "Admission English (Private Batch)",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 6,
+            "name": "ভার্সিটি A Unit + গুচ্ছ এডমিশন কোর্স - ২০২২",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 7,
+            "name": "English for Govt. Jobs",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 8,
+            "name": "ব্যাংক জবস প্রশ্ন সমাধান + মডেল টেস্ট কোর্স",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 1,
+            "name": "Admission English (Private Batch)",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 2,
+            "name": "ভার্সিটি A Unit + গুচ্ছ এডমিশন কোর্স - ২০২২",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 3,
+            "name": "English for Govt. Jobs",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "assets/images/course_ex.png"
+        },
+        {
+            "id": 4,
+            "name": "ব্যাংক জবস প্রশ্ন সমাধান + মডেল টেস্ট কোর্স",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "assets/images/course_ex.png"
+        }
+    ]
+}
